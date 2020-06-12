@@ -1,0 +1,21 @@
+.astronaut {
+  background-color: white;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.astronaut .name {
+  font-size: 2rem;
+  font-weight: 900;
+  color: #222;
+}
+
+.astronaut .craft {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #555;
+}
